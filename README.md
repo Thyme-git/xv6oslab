@@ -1,5 +1,7 @@
 # xv6lab for operating system course
 
+> this is a forked repository for personal learning
+
 ## preparation
 
 ### logger
